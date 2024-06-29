@@ -1,0 +1,11 @@
+node_modules
+infrastructure
+packaging
+test
+Dockerfile
+.dockerignore
+.travis
+.travis.yml
+.editorconfig
+.gitignore
+.gitattributes
